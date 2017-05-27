@@ -1,6 +1,8 @@
 Curseplot (curseplot) - Origin-like curses interface for gnuplot data analysis and plotting
 ===========================================================================================
 
+[![Curseplot Screenshot](https://www.github.com/gnumech/curseplot)](https://www.github.com/gnumech/curseplot/screenshot_curseplot.png)
+
 DESCRIPTION
 -----------
 
